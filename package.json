@@ -1,0 +1,13 @@
+{
+  "name": "admin-console",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@adminjs/express": "^5.0.0",
+    "adminjs": "^6.2.3",
+    "express": "^4.18.1",
+    "express-formidable": "^1.2.0",
+    "tslib": "^2.4.0"
+  }
+}
