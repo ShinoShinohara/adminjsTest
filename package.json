@@ -5,15 +5,21 @@
   "license": "MIT",
   "dependencies": {
     "@adminjs/express": "^5.0.0",
+    "@adminjs/sequelize": "^3.0.0",
     "adminjs": "^6.2.3",
     "express": "^4.18.1",
     "express-formidable": "^1.2.0",
     "express-session": "^1.17.3",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
+    "cli": "^1.0.1",
     "nodemon": "^2.0.20",
     "prettier": "^2.7.1",
+    "sequelize": "^6.23.0",
+    "sequelize-cli": "^6.4.1",
     "sucrase": "^3.27.0"
   },
   "scripts": {
